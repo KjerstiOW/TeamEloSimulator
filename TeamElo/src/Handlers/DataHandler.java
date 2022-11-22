@@ -3,6 +3,7 @@ package Handlers;
 import Comparators.EloComparator;
 import Objects.Global;
 import Objects.Match;
+import Objects.StringErrorException;
 import Objects.Team;
 
 import java.util.ArrayList;
@@ -18,16 +19,6 @@ public class DataHandler {
         }
 
         return teams;
-    }
-
-    public static int getAverageElo(ArrayList<Team> teamList) {
-        int totalElo = 0;
-
-        for (Team team: teamList) {
-            totalElo += team.getElo();
-        }
-
-        return totalElo/teamList.size();
     }
 
     public static ArrayList<Team> reverseList(ArrayList<Team> list) {
@@ -58,30 +49,44 @@ public class DataHandler {
         return total;
     }
 
-    public static Team getTeamFromName(String teamName, ArrayList<Team> teamList) {
+    public static Team getTeamFromName(String teamName, ArrayList<Team> teamList) throws StringErrorException{
         for (Team team: teamList) {
             if (teamName.equals(team.getName())) {
                 return team;
             }
         }
-        System.out.println("ERROR couldn't find teamName from String. teamName = " + teamName);
-        return null;
+
+        throw new StringErrorException("ERROR 69420: couldnt get Team from String, " + teamName);
     }
 
-    public static ArrayList<Match> getMatchesFromRaw(ArrayList<String> rawData) {
+    public static Team generateTeam(String teamName, ArrayList<Team> teamList) {
+        for (Team team: teamList) {
+            if (teamName.equals(team.getName())) {
+                return team;
+            }
+        }
+
+        Team newTeam = new Team(teamName, Global.BASE_ELO);
+        Global.teamList.add(newTeam);
+
+        return newTeam;
+    }
+
+    public static ArrayList<Match> getMatchesFromRaw(ArrayList<String> rawData) throws StringErrorException{
         ArrayList<Match> matches = new ArrayList<>();
 
         for (String line: rawData) {
-            String[] matchData = line.split(",");
+            if (!line.equals("")) {
+                String[] matchData = line.split(",");
 
-            Team teamOne = getTeamFromName(matchData[0], Global.teamList);
-            Team teamTwo = getTeamFromName(matchData[1], Global.teamList);
+                Team teamOne = generateTeam(matchData[0], Global.teamList);
+                Team teamTwo = generateTeam(matchData[1], Global.teamList);
 
-            boolean teamOneVictory = Boolean.parseBoolean(matchData[2]);
 
-            Match match = new Match(teamOne, teamTwo, teamOneVictory);
+                Match match = new Match(teamOne, teamTwo, true);
 
-            matches.add(match);
+                matches.add(match);
+            }
         }
 
         return matches;

@@ -1,180 +1,204 @@
-TeamOne,TeamTwo,TeamOneVictory
-Altiora Artemis,Altiora Polaris,true,
-Altiora Artemis,Altiora Polaris,true,
-Altiora Artemis,Shikigami,true,
-Altiora Artemis,1:30 Timezone,true,
-Altiora Artemis,Purr-suit,true,
-Altiora Artemis,#1 on Overbuff,true,
-Altiora Artemis,Nightshade,true,
-Altiora Artemis,Altiora Skywards,true,
-Altiora Artemis,Moonlit Oblivion,true,
-Altiora Polaris,Shikigami,true,
-Altiora Polaris,Shikigami,true,
-Altiora Polaris,Altiora Nimbus,true,
-Altiora Polaris,Altiora Nimbus,true,
-Altiora Polaris,#1 on Overbuff,true
-Altiora Polaris,Unironic,true
-Altiora Polaris,DU Pioneers,true
-Altiora Polaris,Witches Coven / Synthesis,true
-Dart Monkeys,Timeless Ethereal,true
-Dart Monkeys,Timeless Ethereal,true
-Dart Monkeys,Altiora Nimbus,true
-Dart Monkeys,Altiora Nimbus,true
-Dart Monkeys,Purr-suit,true
-Dart Monkeys,#1 on Overbuff,true
-Dart Monkeys,Defiance Night Witches,true
-Dart Monkeys,Vancouver Titans Blue,true
-Shikigami,1:30 Timezone,true
-Shikigami,Mochi,true
-Shikigami,Mochi,true
-Shikigami,Ban on Choccy Milk,true
-Shikigami,Glade,true
-Shikigami,DoubleBubble,true
-Timeless Ethereal,Altiora Nimbus,true
-Timeless Ethereal,Purr-suit,true
-Timeless Ethereal,Mochi,true
-Timeless Ethereal,Ban on Choccy Milk,true
-Timeless Ethereal,Defiance Night Witches,true
-Timeless Ethereal,Stepsisters,true
-Timeless Ethereal,DoubleBubble,true
-Altiora Nimbus,Purr-suit,true
-Altiora Nimbus,Purr-suit,true
-Altiora Nimbus,#1 on Overbuff,true
-Altiora Nimbus,Unironic,true
-Altiora Nimbus,Glade,true
-Altiora Nimbus,Alternate Lanterns,true
-Altiora Nimbus,Altiora Skywards,true
-Altiora Nimbus,Spacecats,true
-Altiora Nimbus,Wisterieya,true
-Purr-suit,Mochi,true
-Purr-suit,Mochi,false
-Purr-suit,#1 on Overbuff,true
-Purr-suit,Ban on Choccy Milk,true
-Purr-suit,Lawn Mooers,true
-Purr-suit,Nightshade,true
-Purr-suit,Fruit Salad,true
-Purr-suit,Alternate Lanterns,true
-Purr-suit,Icon,true
-Mochi,#1 on Overbuff,true
-Mochi,Unironic,true
-Mochi,Unironic,false
-Mochi,Lawn Mooers,false
-Mochi,Cataclysm,true
-Mochi,Discord Kittens,true
-Mochi,United in Chaos,true
-Mochi,Altiora Skywards,true
-Mochi,Altiora Summit,true
-Mochi,Team Tokki,true
-#1 on Overbuff,Unironic,true
-#1 on Overbuff,Unironic,true
-#1 on Overbuff,Lawn Mooers,true
-#1 on Overbuff,Stepsisters,true
-#1 on Overbuff,Cataclysm,true
-#1 on Overbuff,Vancouver Titans Blue,true
-#1 on Overbuff,DoubleBubble,true
-#1 on Overbuff,Twelve,true
-Unironic,Lawn Mooers,true
-Unironic,Fruit Salad,true
-Unironic,DU Pioneers,true
-Unironic,Altiora Skywards,true
-Unironic,Moonlit Oblivion,true
-Unironic,Frogchamps,true
-Ban on Choccy Milk,Lawn Mooers,true
-Ban on Choccy Milk,Defiance Night Witches,true
-Ban on Choccy Milk,Cataclysm,true
-Ban on Choccy Milk,Nightshade,true
-Ban on Choccy Milk,Nightshade,true
-Ban on Choccy Milk,Discord Kittens,true
-Ban on Choccy Milk,United in Chaos,true
-Ban on Choccy Milk,DoubleBubble,true
-Ban on Choccy Milk,Fruit Salad,true
-Ban on Choccy Milk,Rising Lotus Gaming,true
-Ban on Choccy Milk,Altiora Skywards,true
-Lawn Mooers,Alternate Lanterns,true
-Lawn Mooers,Icon,true
-Defiance Night Witches,Stepsisters,true
-Defiance Night Witches,Discord Kittens,true
-Defiance Night Witches,Altiora Summit,true
-Defiance Night Witches,Anima,true
-Defiance Night Witches,Blossom,true
-Stepsisters,Vancouver Titans Blue,true
-Stepsisters,Discord Kittens,true
-Stepsisters,United in Chaos,true
-Stepsisters,Anima,true
-Cataclysm,Glade,true
-Cataclysm,Alternate Lanterns,true
-Cataclysm,Witches Coven / Synthesis,true
-Cataclysm,Frogchamps,true
-Cataclysm,Team Tokki,true
-Glade,DU Pioneers,true
-Glade,Icon,true
-Glade,Frogchamps,true
-Glade,Team Tokki,true
-Vancouver Titans Blue,Fruit Salad,true
-Vancouver Titans Blue,Altiora Summit,true
-Discord Kittens,Ethereal Remix,true
-Discord Kittens,DU Pioneers,true
-Discord Kittens,Witches Coven / Synthesis,true
-United in Chaos,Ethereal Remix,true
-United in Chaos,Rising Lotus Gaming,true
-United in Chaos,Witches Coven / Synthesis,true
-DoubleBubble,Witches Coven / Synthesis,true
-DoubleBubble,Very Small Eggs,true
-DoubleBubble,Frogchamps,true
-Fruit Salad,Rising Lotus Gaming,true
-Fruit Salad,Meka Squad,true
-Ethereal Remix,Altiora Summit,true
-Ethereal Remix,Alternate Lanterns,true
-Ethereal Remix,Team Tokki,true
-Altiora Summit,Alternate Lanterns,true,
-Altiora Summit,Altiora Skywards,true
-Alternate Lanterns,Rising Lotus Gaming,true
-Alternate Lanterns,DU Pioneers,true
-Alternate Lanterns,Moonlit Oblivion,true
-Alternate Lanterns,Lunar Foxes,true,
-Alternate Lanterns,Blossom,true
-Rising Lotus Gaming,Anima,true
-DU Pioneers,Altiora Skywards,true
-DU Pioneers,Anima,false
-DU Pioneers,Witches Coven / Synthesis,true
-DU Pioneers,Moonlit Oblivion,true
-DU Pioneers,Moonlit Oblivion,true
-DU Pioneers,Morte et Dabo,true
-DU Pioneers,Spacecats,true
-DU Pioneers,Spacecats,true
-DU Pioneers,Team Tokki,true
-Altiora Skywards,Witches Coven / Synthesis,true
-Altiora Skywards,Meka Squad,true
-Altiora Skywards,Icon,true
-Altiora Skywards,Icon,true
-Altiora Skywards,Morte et Dabo,true
-Altiora Skywards,Team Tokki,true
-Anima,Meka Squad,false
-Witches Coven / Synthesis,Meka Squad,true
-Witches Coven / Synthesis,Very Small Eggs,true
-Witches Coven / Synthesis,Morte et Dabo,true
-Witches Coven / Synthesis,Team Tokki,true
-Witches Coven / Synthesisw,Pumpkin Pandas,true
-Very Small Eggs,Moonlit Oblivion,true
-Very Small Eggs,Spacecats,true
-Icon,Moonlit Oblivion,true
-Icon,Moonlit Oblivion,false
-Icon,Morte et Dabo,true
-Icon,Wisterieya,true
-Moonlit Oblivion,Wisterieya,true
-Moonlit Oblivion,Pumpkin Pandas,true
-Moonlit Oblivion,Blossom,true
-Morte et Dabo,Team Tokki,true
-Morte et Dabo,Wisterieya,true
-Spacecats,Team Tokki,true
-Spacecats,Twelve,true
-Spacecats,Lunar Foxes,true
-Frogchamps,Twelve,true
-Frogchamps,Lunar Foxes,true
-Team Tokki,Twelve,true
-Team Tokki,Lunar Foxes,true
-Team Tokki,Blossom,true
-Twelve,Pumpkin Pandas,true
-Wisterieya,Blossom,true
-LiveForever,Essence,true
-Ban on Choccy Milk,ThrowawayTeam,false
+TeamOne,TeamTwo,
+#1 on Overbuff,Twelve
+Mochi,Cataclysm
+Altiora Artemis,Moonlit Oblivion
+Altiora Nimbus,Spacecats
+Shikigami,Glade
+Unironic,Frogchamps
+1:30 Timezone,DoubleBubble
+Nightshade,Very Small Eggs
+Altiora Polaris,The Witches Coven
+Altiora Summit,Pumpkin Pandas
+To Be Named,Altiora Skywards
+Alternate Lanterns,Lunar Foxes
+Icon,Purr-suit
+Team Tokki,DU Pioneers
+LiveForever,Essence
+Altiora Polaris,Unironic
+Altiora Artemis,1:30 Timezone
+Altiora Nimbus,Altiora Summit
+Mochi,#1 on Overbuff
+Purr-suit,Nightshade
+Shikigami,To Be Named
+Alternate Lanterns,DU Pioneers
+The Witches Coven,Pumpkin Pandas
+Cataclysm,Glade
+Spacecats,Lunar Foxes
+Very Small Eggs,Moonlit Oblivion
+Altiora Skywards,Icon
+DoubleBubble,Frogchamps
+Team Tokki,Twelve
+Altiora Polaris,Altiora Nimbus
+Shikigami,Mochi
+Purr-suit,Alternate Lanterns
+Altiora Artemis,Nightshade
+1:30 Timezone,To Be Named
+DU Pioneers,Spacecats
+#1 on Overbuff,Cataclysm
+Unironic,Altiora Summit
+Altiora Skywards,The Witches Coven
+DoubleBubble,Very Small Eggs
+Team Tokki,Lunar Foxes
+Glade,Icon
+Moonlit Oblivion,Pumpkin Pandas
+Frogchamps,Twelve
+Altiora Polaris,Shikigami
+Altiora Artemis,Purr-suit
+1:30 Timezone,Mochi
+Altiora Nimbus,Alternate Lanterns
+Unironic,DU Pioneers
+#1 on Overbuff,DoubleBubble
+Altiora Skywards,Team Tokki
+To Be Named,Nightshade
+Cataclysm,The Witches Coven
+Very Small Eggs,Spacecats
+Glade,Frogchamps
+Moonlit Oblivion,Altiora Summit
+Icon,Lunar Foxes
+Twelve,Pumpkin Pandas
+Altiora Artemis,Altiora Polaris
+Shikigami,1:30 Timezone
+Altiora Nimbus,Purr-suit
+#1 on Overbuff,Unironic
+Mochi,Altiora Skywards
+To Be Named,DoubleBubble
+Cataclysm,Alternate Lanterns
+DU Pioneers,Moonlit Oblivion
+Glade,Team Tokki
+The Witches Coven,Very Small Eggs
+Nightshade,Altiora Summit
+Icon,Frogchamps
+Spacecats,Twelve
+Altiora Artemis,Shikigami
+Altiora Polaris,#1 on Overbuff
+1:30 Timezone,Altiora Nimbus
+Purr-suit,Mochi
+To Be Named,Cataclysm
+Unironic,Altiora Skywards
+Glade,DU Pioneers
+Nightshade,Alternate Lanterns
+DoubleBubble,The Witches Coven
+Moonlit Oblivion,Icon
+Spacecats,Team Tokki
+Very Small Eggs,Altiora Summit
+Frogchamps,Lunar Foxes
+Altiora Artemis,Altiora Skywards
+#1 on Overbuff,Unironic
+To Be Named,Nightshade
+1:30 Timezone,Cataclysm
+Shikigami,DoubleBubble
+Mochi,Purr-suit
+Altiora Nimbus,Glade
+Altiora Polaris,DU Pioneers
+Altiora Artemis,#1 on Overbuff
+1:30 Timezone,To Be Named
+Shikigami,Mochi
+Altiora Polaris,Altiora Nimbus
+Altiora Artemis,1:30 Timezone
+Altiora Polaris,Shikigami
+Altiora Artemis,Altiora Polaris
+Timeless Ethereal,Meka Squad
+#1 on Overbuff,Lawn Mooers
+Altiora Nimbus,Wisterieya
+Mochi,Team Tokki
+United in Chaos,Synthesis
+Ban on Choccy Milk,Rising Lotus Gaming
+Unironic,Moonlit Oblivion
+Altiora Skywards,Morte et Dabo
+Vancouver Titans Blue,Icon
+Purr-suit,Fruit Salad
+Road to Glory,Ethereal Remix
+Defiance,Blossom
+DU Pioneers,Anima
+Altiora Summit,Alternate Lanterns
+Stepsisters,Discord Kittens
+#1 on Overbuff,Dart Monkeys
+Timeless Ethereal,Stepsisters
+Altiora Nimbus,Altiora Skywards
+Unironic,Mochi
+Vancouver Titans Blue,Altiora Summit
+Purr-suit,Road to Glory
+Ban on Choccy Milk,United in Chaos
+Defiance,Anima
+Morte et Dabo,Wisterieya
+Fruit Salad,Meka Squad
+Lawn Mooers,Icon
+Ethereal Remix,Team Tokki
+DU Pioneers,Moonlit Oblivion
+Alternate Lanterns,Blossom
+Discord Kittens,Synthesis
+Purr-suit,Ban on Choccy Milk
+Dart Monkeys,Vancouver Titans Blue
+Timeless Ethereal,Defiance
+Altiora Nimbus,Unironic
+Road to Glory,Anima
+Altiora Summit,Altiora Skywards
+#1 on Overbuff,Stepsisters
+Fruit Salad,Rising Lotus Gaming
+Mochi,United in Chaos
+Lawn Mooers,Alternate Lanterns
+DU Pioneers,Morte et Dabo
+Discord Kittens,Ethereal Remix
+Moonlit Oblivion,Blossom
+Icon,Wisterieya
+Synthesis,Team Tokki
+Dart Monkeys,Purr-suit
+Timeless Ethereal,Altiora Nimbus
+#1 on Overbuff,Vancouver Titans Blue
+Road to Glory,Unironic
+Ban on Choccy Milk,Fruit Salad
+Defiance,Altiora Summit
+Lawn Mooers,Mochi
+Discord Kittens,DU Pioneers
+Stepsisters,Anima
+Altiora Skywards,Meka Squad
+United in Chaos,Rising Lotus Gaming
+Icon,Moonlit Oblivion
+Ethereal Remix,Alternate Lanterns
+Morte et Dabo,Synthesis
+Team Tokki,Blossom
+Dart Monkeys,Timeless Ethereal
+Purr-suit,#1 on Overbuff
+Altiora Nimbus,Road to Glory
+Ban on Choccy Milk,Lawn Mooers
+Defiance,Discord Kittens
+Stepsisters,Vancouver Titans Blue
+Unironic,Fruit Salad
+Mochi,Altiora Summit
+United in Chaos,Ethereal Remix
+Altiora Skywards,Icon
+DU Pioneers,Synthesis
+Meka Squad,Anima
+Alternate Lanterns,Rising Lotus Gaming
+Morte et Dabo,Team Tokki
+Moonlit Oblivion,Wisterieya
+Dart Monkeys,Altiora Nimbus
+Timeless Ethereal,Purr-suit
+Ban on Choccy Milk,Defiance
+Road to Glory,#1 on Overbuff
+Unironic,Lawn Mooers
+Mochi,Discord Kittens
+Stepsisters,United in Chaos
+DU Pioneers,Altiora Skywards
+Vancouver Titans Blue,Fruit Salad
+Ethereal Remix,Altiora Summit
+Synthesis,Meka Squad
+Icon,Morte et Dabo
+Alternate Lanterns,Moonlit Oblivion
+Rising Lotus Gaming,Anima
+Wisterieya,Blossom
+Dart Monkeys,Vancouver Titans Blue
+Defiance,Stepsisters
+Altiora Nimbus,#1 on Overbuff
+Purr-suit,Lawn Mooers
+Ban on Choccy Milk,Discord Kittens
+Road to Glory,DU Pioneers
+Mochi,Unironic
+Timeless Ethereal,United in Chaos
+Dart Monkeys,Defiance
+Altiora Nimbus,Purr-suit
+Ban on Choccy Milk,Road to Glory
+Timeless Ethereal,Mochi
+Dart Monkeys,Altiora Nimbus
+Timeless Ethereal,Ban on Choccy Milk
+Dart Monkeys,Timeless Ethereal
